@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Bryan Knox.  I love software development. It makes me happy.
+
 <!--
 **bryanknox/bryanknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
