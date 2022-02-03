@@ -2,6 +2,8 @@
 
 I'm Bryan Knox.  I love software development. It makes me happy.
 
+I also have [gists](https://gist.github.com/bryanknox)!
+
 <!--
 **bryanknox/bryanknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
