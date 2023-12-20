@@ -2,9 +2,10 @@
 
 I love software development. It makes me happy.
 
-- 🌱 I’m currently learning all kinds of stuff. .NET MAUI, DAPR, Blazor, ...
+- 🌱 I’m currently learning all kinds of stuff. .NET Blazor, Maui, more Azure...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Pedaling mountain bikes up steep hills is very rewarding.
+- 🔭 I'm currently working at [Xebia Microsoft Services](https://xebia.com/digital-transformation/microsoft-services/)
 
 I also have [gists](https://gist.github.com/bryanknox)!
 
