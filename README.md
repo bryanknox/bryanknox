@@ -2,7 +2,7 @@
 
 I love software development. It makes me happy.
 
-- 🌱 I’m currently learning all kinds of stuff. .NET Blazor, Maui, more Azure...
+- 🌱 I’m currently into all kinds of stuff. C#, .NET Blazor, Aspire, Azure...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Pedaling mountain bikes up steep hills is very rewarding.
 - 🔭 I'm currently working at [Xebia Microsoft Services](https://xebia.com/digital-transformation/microsoft-services/)
