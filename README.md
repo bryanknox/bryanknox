@@ -2,10 +2,10 @@
 
 I love software development. It makes me happy.
 
-- 🌱 I’m currently into all kinds of stuff. C#, .NET Blazor, Aspire, Azure...
+- 🌱 I’m currently into all kinds of stuff. C#, .NET Blazor, Azure, AI-native development ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Pedaling mountain bikes up steep hills is very rewarding.
-- 🔭 I'm currently working at [Xebia Microsoft Services](https://xebia.com/digital-transformation/microsoft-services/)
+- 🔭 I'm currently available for work. See my [LinkedIn profile](https://www.linkedin.com/in/knoxbryan/)
 
 I also have [gists](https://gist.github.com/bryanknox)!
 
